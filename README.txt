@@ -31,7 +31,7 @@ python3 ransomware.py file.txt
 __________________________________________________________________________________________
                                       LEGAL STATEMENT
 __________________________________________________________________________________________
-By downloading, modifying, redistributing, and/or executing python-network-tools, the
+By downloading, modifying, redistributing, and/or executing ransomware, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
 I, ghostface-cybersecurity, the creator, take no legal responsibility for unlawful actions
