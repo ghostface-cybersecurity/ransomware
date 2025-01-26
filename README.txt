@@ -9,7 +9,7 @@
 _________________________________________________________________________________________
                                           ABOUT
 _________________________________________________________________________________________
-Description: 
+Description: A simple ransomware program that encrypts just one file
 Program: Ransomware
 Languages: Python 3.12.7
 Tested on: Linux 6.11.2
